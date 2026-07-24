@@ -10,6 +10,7 @@ Selecting the right crop is one of the most important decisions in agriculture. 
 
 The application is built with **Python** and **Streamlit**, providing a simple and interactive web interface.
 
+LiNk: https://ml-based-farmer-crop-prediction-app-fsa24uihv9h6nsbedosefm.streamlit.app/
 ---
 
 ## 🚀 Features
